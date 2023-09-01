@@ -1,0 +1,4 @@
+<h1>Installation Front</h1>
+<p>Lancer un terminal et taper <strong>npm install</strong>puis lancer <strong>npm start </strong>ou <strong>node node_modules/live-server/live-server --port=8081</strong></p>
+<h1>Installation back </h1>
+<p>Lancer un terminal et taper <strong>npm install</strong>, puis lancer <strong>nodemon</strong> </p>
